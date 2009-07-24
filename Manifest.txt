@@ -1,0 +1,10 @@
+History.txt
+Manifest.txt
+PostInstall.txt
+README.rdoc
+Rakefile
+lib/i18n_moneta.rb
+script/console
+script/destroy
+script/generate
+spec/i18n_moneta_spec.rb
